@@ -20,6 +20,8 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
+    implementation("com.formdev:flatlaf:2.6")
+    implementation("com.formdev:flatlaf-intellij-themes:2.6")
 }
 
 kotlin {

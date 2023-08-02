@@ -3,7 +3,6 @@ package mcpatch
 import java.awt.Desktop
 import java.io.File
 import java.lang.instrument.Instrumentation
-import java.net.URL
 import java.net.URLClassLoader
 import java.net.URLDecoder
 import javax.swing.JOptionPane
